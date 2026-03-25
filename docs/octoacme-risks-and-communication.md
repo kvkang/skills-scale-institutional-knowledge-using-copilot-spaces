@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Support Lead provides weekly summaries of customer-reported issues and support trends to ensure customer impact is visible to the delivery team
 
 ## Communication Templates
 Weekly Status Template:
@@ -39,4 +40,5 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
+- Customer-impacting issues: Support Lead -> PM -> Product Lead (Support Lead serves as the first point of escalation for issues reported through customer support channels)
 - For security incidents, follow the security incident runbook and notify Security on-call

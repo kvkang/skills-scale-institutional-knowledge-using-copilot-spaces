@@ -4,7 +4,7 @@
 Provide a concise, shareable introduction to how OctoAcme runs projects so new teammates can quickly understand our approach, roles, and key artifacts.
 
 ## Scope
-Applies to all cross-functional projects that deliver product features, services, or integrations.
+Applies to all cross-functional projects that deliver product features, services, or integrations. Role definitions cover all specialized functions on the delivery team, including engineering, design, analytics, release, documentation, and support coordination.
 
 ## Principles
 - Customer-first: prioritize customer value and usability.
@@ -19,6 +19,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Release Manager: coordinates deployments, manages release communication, and facilitates go/no-go decisions.
+- UX Designer: advocates for user experience, conducts research and usability testing, and supports implementation.
+- Technical Writer: maintains documentation consistency, facilitates knowledge sharing, and supports onboarding.
+- Support Lead: liaises with customer support, escalates customer-impacting issues, and informs prioritization.
+- Data Analyst: defines and tracks metrics, provides data-driven insights, and validates success measurements.
+
+See [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for full role definitions, responsibilities, and cross-functional interactions.
 
 ## Key Artifacts
 - Project Charter / One-pager
